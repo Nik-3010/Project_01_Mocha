@@ -1,0 +1,19 @@
+{
+  "name": "project_01",
+  "version": "1.0.0",
+  "main": "mergeSort.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "keywords": [],
+  "author": "Nishant Ranjan",
+  "license": "ISC",
+  "description": "Just a simple test project to build test cases using mocha and",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
